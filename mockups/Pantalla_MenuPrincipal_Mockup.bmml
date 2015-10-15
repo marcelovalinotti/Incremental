@@ -1,0 +1,32 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="840" measuredH="440" mockupW="720" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="120" y="40" w="720" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Pantalla%20Principal</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="181" y="210" w="-1" h="-1" measuredW="120" measuredH="63" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gestionar%20Reclamos</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="398" y="210" w="-1" h="-1" measuredW="121" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gestionar%20Inventario</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="623" y="210" w="-1" h="-1" measuredW="163" measuredH="63" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar%20Mensaje%20de%20Difusi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="703" y="380" w="-1" h="-1" measuredW="122" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cambiar%20Usuario</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
